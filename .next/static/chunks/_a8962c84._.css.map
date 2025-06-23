@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/supri/Desktop/Elite%20Forums/Assignment%202/amazon_replicate/app/admin/page.css"],"sourcesContent":["body{\r\n    background-color: white;\r\n}"],"names":[],"mappings":"AAAA","debugId":null}},
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/supri/Desktop/Elite%20Forums/Assignment%202/amazon_replicate/Component/navbar.css"],"sourcesContent":[".bar:hover{\r\n    background-color:black;\r\n    padding-left: 30px;\r\n    padding-right: 30px;\r\n}\r\n.bar{\r\n    font-size: 20px;\r\n    padding-Left: 10px;\r\n    padding-Right: 10px;\r\n}\r\n\r\n.navs{\r\n    padding: 30px;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;AAKA;;;;;;AAMA","debugId":null}}]
+}

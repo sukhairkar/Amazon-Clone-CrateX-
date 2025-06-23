@@ -1,0 +1,49 @@
+.bar:hover{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color:rgb(129, 160, 222);
+}
+
+.bar{
+    font-size: 20px;
+    padding-Left: 30px;
+    padding-Right: 30px;
+}
+
+.navs{
+    padding: 30px;
+}
+
+#mainnav{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:10vh;
+    /* width:100vw; */
+    background-color: white;
+}
+
+button{
+    padding: 10px ;
+    margin: 10px;
+}
+
+button:hover{
+    background-color: rgb(69, 162, 220);
+    color: white;
+}
+
+
+.cart{
+    padding: 16px;
+    margin-top: 16px;
+    height: 36px;
+}
+
+#clerkbutton{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/supri/Desktop/Elite%20Forums/Assignment%202/amazon_replicate/Component/navbar.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nfunction navbars() {\r\n  return (\r\n    // <div>\r\n    //         <ul>\r\n    //         <li><a href=\"/\">Home</a></li>\r\n    //         <li><a href=\"/create\">Create</a></li>\r\n    //         <li><a href=\"/ai\">AI</a></li>\r\n    //         <li><a href=\"/admin\">Admin</a></li>\r\n    //         </ul>\r\n    // </div>\r\n    <h1>Hlelooaskldasjkdjkas</h1>\r\n  )\r\n}\r\n\r\nexport default navbars;"],"names":[],"mappings":";;;;AAAA;;;AAEA,SAAS;IACP,OACE,QAAQ;IACR,eAAe;IACf,wCAAwC;IACxC,gDAAgD;IAChD,wCAAwC;IACxC,8CAA8C;IAC9C,gBAAgB;IAChB,SAAS;kBACT,8OAAC;kBAAG;;;;;;AAER;uCAEe","debugId":null}},
+    {"offset": {"line": 70, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/supri/Desktop/Elite%20Forums/Assignment%202/amazon_replicate/app/page.js"],"sourcesContent":["'use client';\n\nimport Image from \"next/image\";\nimport Link from \"next/link\";\nimport styles from \"./page.css\";\nimport navbar from \"@/Component/navbar\";\n\nexport default function Home() {\n  return (\n    <div>\n      <Navbars/>\n    </div>\n      );\n}\n"],"names":[],"mappings":";;;;AAEA;AACA;AAEA;AALA;;;;;;AAOe,SAAS;IACtB,qBACE,8OAAC;kBACC,cAAA,8OAAC;;;;;;;;;;AAGP","debugId":null}}]
+}

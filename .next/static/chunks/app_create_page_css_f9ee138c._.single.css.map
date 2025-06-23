@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/create/page.css"],"sourcesContent":["form input{\r\n    background-color: thistle;\r\n}"],"names":[],"mappings":"AAAA"}}]
+}

@@ -1,0 +1,23 @@
+/* [project]/app/create/page.css [app-client] (css) */
+
+
+
+/* [project]/Component/navbar.css [app-client] (css) */
+.bar:hover {
+  background-color: #000;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.bar {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.navs {
+  padding: 30px;
+}
+
+
+/*# sourceMappingURL=_9479ab85._.css.map*/

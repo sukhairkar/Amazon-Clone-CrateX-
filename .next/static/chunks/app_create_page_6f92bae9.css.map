@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/supri/Desktop/Elite%20Forums/Assignment%202/amazon_replicate/app/create/page.css"],"sourcesContent":["body{\r\n    background-color: white;\r\n}"],"names":[],"mappings":"AAAA","debugId":null}}]
+}

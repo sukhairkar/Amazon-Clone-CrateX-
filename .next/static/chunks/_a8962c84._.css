@@ -1,0 +1,25 @@
+/* [project]/app/admin/page.css [app-client] (css) */
+body {
+  background-color: #fff;
+}
+
+
+/* [project]/Component/navbar.css [app-client] (css) */
+.bar:hover {
+  background-color: #000;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.bar {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.navs {
+  padding: 30px;
+}
+
+
+/*# sourceMappingURL=_a8962c84._.css.map*/

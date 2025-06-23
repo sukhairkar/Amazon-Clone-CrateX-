@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/supri/Desktop/Elite%20Forums/Assignment%202/amazon_replicate/app/Component/navbar.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function navbar() {\r\n  return (\r\n    // <div>\r\n    //         <ul>\r\n    //         <li><a href=\"/\">Home</a></li>\r\n    //         <li><a href=\"/create\">Create</a></li>\r\n    //         <li><a href=\"/ai\">AI</a></li>\r\n    //         <li><a href=\"/admin\">Admin</a></li>\r\n    //         </ul>\r\n    // </div>\r\n    <header>hello friend</header>\r\n  )\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,OACE,QAAQ;IACR,eAAe;IACf,wCAAwC;IACxC,gDAAgD;IAChD,wCAAwC;IACxC,8CAA8C;IAC9C,gBAAgB;IAChB,SAAS;kBACT,8OAAC;kBAAO;;;;;;AAEZ","debugId":null}},
+    {"offset": {"line": 54, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/supri/Desktop/Elite%20Forums/Assignment%202/amazon_replicate/app/page.js"],"sourcesContent":["import Image from \"next/image\";\nimport Link from \"next/link\";\nimport styles from \"./page.css\";\nimport navbar from \"./Component/navbar\";\n\nexport default function Home() {\n  return (\n    <div>\n      <navbar/>\n    </div>\n      );\n}\n"],"names":[],"mappings":";;;;AAAA;AACA;AAEA;;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;kBACC,cAAA,8OAAC;;;;;;;;;;AAGP","debugId":null}}]
+}

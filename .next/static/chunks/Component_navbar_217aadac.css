@@ -1,0 +1,39 @@
+/* [project]/Component/navbar.css [app-client] (css) */
+.bar:hover {
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: underline 4px #81a0de;
+}
+
+.bar {
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 20px;
+}
+
+.navs {
+  padding: 30px;
+}
+
+#mainnav {
+  background-color: #fff;
+  border: 2px solid #000;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+button:hover {
+  color: #fff;
+  background-color: #45a2dc;
+}
+
+
+/*# sourceMappingURL=Component_navbar_217aadac.css.map*/

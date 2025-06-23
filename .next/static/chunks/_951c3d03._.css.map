@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/supri/Desktop/Elite%20Forums/Assignment%202/amazon_replicate/Component/navbar.css"],"sourcesContent":[".bar:hover{\r\n    padding-left: 30px;\r\n    padding-right: 30px;\r\n    text-decoration: underline;\r\n    text-decoration-thickness: 4px;\r\n    text-decoration-color:rgb(129, 160, 222);\r\n}\r\n\r\n.bar{\r\n    font-size: 20px;\r\n    padding-Left: 30px;\r\n    padding-Right: 30px;\r\n}\r\n\r\n.navs{\r\n    padding: 30px;\r\n}\r\n\r\n#mainnav{\r\n    border: 2px solid black;\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    height:10vh;\r\n    width:100vw;\r\n    background-color: white;\r\n}\r\n\r\nbutton{\r\n    padding: 10px 20px;\r\n    margin: 10px;\r\n}\r\n\r\nbutton:hover{\r\n    background-color: rgb(69, 162, 220);\r\n    color: white;\r\n}"],"names":[],"mappings":"AAAA;;;;;;AAQA;;;;;;AAMA;;;;AAIA;;;;;;;;;;AAUA;;;;;AAKA","debugId":null}},
+    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/supri/Desktop/Elite%20Forums/Assignment%202/amazon_replicate/app/create/page.css"],"sourcesContent":["form input{\r\n    background-color: thistle;\r\n}"],"names":[],"mappings":"AAAA","debugId":null}}]
+}
