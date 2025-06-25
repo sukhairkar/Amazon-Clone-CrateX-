@@ -33,3 +33,7 @@
     "tw-animate-css": "^1.3.4"
   }
 }
+
+"scripts": {
+  "build": "prisma generate && next build"
+}
