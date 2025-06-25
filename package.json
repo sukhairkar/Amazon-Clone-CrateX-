@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build",
+    "build": "prisma generate && next build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -31,7 +31,5 @@
     "prisma": "^6.9.0",
     "tailwindcss": "^4",
     "tw-animate-css": "^1.3.4"
-  },
-"scripts": {
-  "build": "prisma generate && next build"
+  }
 }
